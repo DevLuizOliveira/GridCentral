@@ -53,7 +53,7 @@ GRID-CENTRAL/
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/DevLuizOliveira/grid-central.git
+   git clone https://github.com/DevLuizOliveira/GridCentral.git
    ```
 
 2. **Acessar a Pasta do Projeto:**
